@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ziumper
-- 👀 I’m interested in Game-Dev and E-commerce
-- 🌱 I’m currently learning virtual reality projects and v-commerce
+
 
 
 ### My Github Stats
