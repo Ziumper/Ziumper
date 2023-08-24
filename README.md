@@ -1,4 +1,3 @@
-👋 Hi, I’m @Ziumper
+👋 Hi, I’m [Ziumper](https://ziumper.github.io)
 
-More info on:
-[Here](https://ziumper.github.io)
+
